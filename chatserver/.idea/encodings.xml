@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/chat/common/Message.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat/common/MessageType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat/common/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_server/server/backstage/DatabaseManage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_server/server/backstage/SendFileThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_server/server/backstage/ServerConClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_server/server/backstage/ServerManage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_server/server/backstage/Server_Connect_Database.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_server/server/tools/ServerThreadCollection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_server/server/tools/Tools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_server/server/view/Server_Frame.java" charset="UTF-8" />
+  </component>
+</project>

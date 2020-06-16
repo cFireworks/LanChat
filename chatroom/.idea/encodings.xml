@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/chat/common/Message.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat/common/MessageType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/backstage/ClienManage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/backstage/ClientConServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/run/Run.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/tools/ClientThreadCollection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/tools/ManageClientCollction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/tools/ManageClientPersonCollection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/tools/Tools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/view/ClientFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/view/Client_Frame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/view/Login_Frame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chat_room/client/view/Register_Frame.java" charset="UTF-8" />
+  </component>
+</project>
